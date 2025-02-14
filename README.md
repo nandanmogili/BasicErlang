@@ -37,12 +37,7 @@ This project contains two Erlang modules—**p1.erl** and **p2.erl**—that work
 
 
 ## How to Run
-1. Compile the modules in the Erlang shell:
-    ```erlang
-   1> c(p1).
-   2> c(p2).
-   ```
-2. Start the loop by calling:
+1. Start the loop by calling:
     ```erlang
    3> p2:start().
    ```
