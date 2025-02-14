@@ -1,4 +1,4 @@
-# Erlang Assignment: p1 and p2 Modules
+# Basic Erlang Programming Assignment
 
 ## Team Members
 - Nandan Mogili
